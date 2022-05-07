@@ -8,3 +8,4 @@ Working:
 In this Web-App, first the administrator can login and can the add the hospital code and some other minimal description , and then the authorization ID and Password will be sent directly to their Mail through the Flask-Mail feature.
 These authorization details can be used by the hospital staff to login to our web app and add their Bed availability details along with the type of BEDS(Normal, ICU, Oxygen etc) then finally the patients can login to the page and book the hospital bed slot according to their preference.
 
+![WhatsApp Image 2022-05-07 at 1 42 45 PM](https://user-images.githubusercontent.com/80278316/167246868-5e8f2ac9-701b-4a00-9db1-77da08f6790f.jpeg)
